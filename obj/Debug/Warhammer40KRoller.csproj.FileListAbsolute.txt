@@ -1,0 +1,18 @@
+C:\Crap Inserted\Hjemme Projekter\Warhammer40KRoller\Warhammer40KRoller\bin\Debug\Warhammer40KRoller.exe.config
+C:\Crap Inserted\Hjemme Projekter\Warhammer40KRoller\Warhammer40KRoller\bin\Debug\Warhammer40KRoller.exe
+C:\Crap Inserted\Hjemme Projekter\Warhammer40KRoller\Warhammer40KRoller\bin\Debug\Warhammer40KRoller.pdb
+C:\Crap Inserted\Hjemme Projekter\Warhammer40KRoller\Warhammer40KRoller\obj\Debug\Warhammer40KRoller.csprojResolveAssemblyReference.cache
+C:\Crap Inserted\Hjemme Projekter\Warhammer40KRoller\Warhammer40KRoller\obj\Debug\Warhammer40KRoller.Properties.Resources.resources
+C:\Crap Inserted\Hjemme Projekter\Warhammer40KRoller\Warhammer40KRoller\obj\Debug\Warhammer40KRoller.csproj.GenerateResource.Cache
+C:\Crap Inserted\Hjemme Projekter\Warhammer40KRoller\Warhammer40KRoller\obj\Debug\Warhammer40KRoller.exe
+C:\Crap Inserted\Hjemme Projekter\Warhammer40KRoller\Warhammer40KRoller\obj\Debug\Warhammer40KRoller.pdb
+C:\Crap Inserted\Hjemme Projekter\Warhammer40KRoller\Warhammer40KRoller\obj\Debug\Warhammer40KRoller.WarhammerRoller.resources
+D:\Allan\Ramoun\Programming\Hjemme Projekter\Warhammer40KRoller\Warhammer40KRoller\bin\Debug\Warhammer40KRoller.exe.config
+D:\Allan\Ramoun\Programming\Hjemme Projekter\Warhammer40KRoller\Warhammer40KRoller\bin\Debug\Warhammer40KRoller.exe
+D:\Allan\Ramoun\Programming\Hjemme Projekter\Warhammer40KRoller\Warhammer40KRoller\bin\Debug\Warhammer40KRoller.pdb
+D:\Allan\Ramoun\Programming\Hjemme Projekter\Warhammer40KRoller\Warhammer40KRoller\obj\Debug\Warhammer40KRoller.csprojResolveAssemblyReference.cache
+D:\Allan\Ramoun\Programming\Hjemme Projekter\Warhammer40KRoller\Warhammer40KRoller\obj\Debug\Warhammer40KRoller.WarhammerRoller.resources
+D:\Allan\Ramoun\Programming\Hjemme Projekter\Warhammer40KRoller\Warhammer40KRoller\obj\Debug\Warhammer40KRoller.Properties.Resources.resources
+D:\Allan\Ramoun\Programming\Hjemme Projekter\Warhammer40KRoller\Warhammer40KRoller\obj\Debug\Warhammer40KRoller.csproj.GenerateResource.Cache
+D:\Allan\Ramoun\Programming\Hjemme Projekter\Warhammer40KRoller\Warhammer40KRoller\obj\Debug\Warhammer40KRoller.exe
+D:\Allan\Ramoun\Programming\Hjemme Projekter\Warhammer40KRoller\Warhammer40KRoller\obj\Debug\Warhammer40KRoller.pdb
